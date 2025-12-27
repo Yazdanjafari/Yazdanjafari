@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently working on Citra company as a senior software engineer<br>Also, I'm currently learning machine, learning and AI<br>I'm researching about AI and new models and algorithms of AI<br>My main goal is, change the world to the better world by programming and myself
+I am a Senior Software Engineer currently working at Citra, where I design and build scalable, impactful software solutions.<br>
+Alongside my professional work, I am actively learning Machine Learning and Artificial Intelligence, with a strong focus on understanding modern AI models, algorithms, and emerging technologies.<br><br>
+
+I spend a significant amount of time researching advancements in AI, exploring how intelligent systems can solve real-world problems and shape the future.<br>
+I believe programming is more than writing code—it is a tool for creating meaningful change.<br><br>
+
+My main goal is to make the world a better place through technology, continuous learning, and personal growth.<br>
+By combining engineering discipline with innovation in AI, I aim to contribute to solutions that have a positive and lasting impact on society.
 
 
 ## 🌐 Socials:
