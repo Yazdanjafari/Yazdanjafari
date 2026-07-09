@@ -1,3 +1,78 @@
+```markdown
+<div align="center">
+
+# Hi there, I'm Yazdan Jafari 👋
+
+### Data Scientist | Machine Learning Engineer | Software Engineer
+
+<p>
+Machine Learning Engineer passionate about building AI-powered applications that solve real-world problems.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/yazdan-jafari-372560322/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Yazdanjr">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:yazdanjafari.business@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I began my career as a **Senior Full-Stack Developer**, specializing in **Python** and **Django**, where I designed and built scalable web applications from both the front-end and back-end. Throughout my career, I have been driven by one principle: **solving meaningful problems through technology**. Building robust software, leading projects, and turning ideas into reality have shaped the way I approach every challenge.
+
+As technology continued to evolve, I made a deliberate transition into **Data Science** and **Machine Learning**. I believe Artificial Intelligence is fundamentally reshaping the future of technology, and I wanted to focus on building the systems that will drive the next generation of innovation. Rather than adapting to the future, I chose to build the technologies that will define it.
+
+Today, I enjoy uncovering patterns within data, developing predictive models, building intelligent applications, and transforming complex information into solutions that create measurable impact. To me, data is more than numbers—it's the foundation for innovation, smarter decisions, and the future of technology.
+
+My software engineering background gives me a strong advantage in building **scalable, production-ready AI systems** while maintaining high standards of software architecture, clean code, and system design.
+
+I believe technology should do more than solve today's problems—it should redefine what's possible. My goal is to build intelligent systems that transform industries, inspire innovation, and create lasting value at scale.
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🧠 Artificial Intelligence
+- 📈 Predictive Modeling
+- 🏗️ Production AI Systems
+- 🔬 Continuous Learning & Research
+
+---
+
+# 🎓 Education
+
+**Master of Computer Engineering**  
+Azad University (North Tehran Branch)
+
+---
+
+# 🏆 Certifications
+
+| Certificate | Issued By |
+|-------------|-----------|
+| [Basic Python](https://yazdanjafari.github.io/img/Python.jpeg) | Tehran Institute Of Technology |
+| [Advanced Python](https://yazdanjafari.github.io/img/Advanced_Python.jpeg) | Tehran Institute Of Technology |
+| [Python](https://yazdanjafari.github.io/img/Python_Harvard_4mH8oB9.jpg) | Harvard University |
+| [Django](https://yazdanjafari.github.io/img/photo_2025-07-31_14-09-10.jpg) | Codeyad Institute |
+| [Machine Learning](https://yazdanjafari.github.io/img/ML_Certification.png) | Codeyad Institute |
+| [Upper-Intermediate English](https://yazdanjafari.github.io/img/photo_2025-07-31_14-08-57.jpg) | Safir Academy |
+| [Advanced English](https://yazdanjafari.github.io/img/AcvancedEnglishCertification.jpg) | Safir Academy |
+
+---
+
 # 💻 Tech Stack
 
 ### 🤖 AI & Data Science
@@ -49,3 +124,22 @@
 ### 🌍 Languages
 - 🇮🇷 Persian (Native)
 - 🇺🇸 English (Professional Working Proficiency)
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/yazdan-jafari-372560322/
+- 📨 Email: yazdanjafari.business@gmail.com
+- 💬 Telegram: https://t.me/Yazdanjr
+
+---
+
+<div align="center">
+
+### *"Building intelligent systems that create real-world impact."*
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
+```
