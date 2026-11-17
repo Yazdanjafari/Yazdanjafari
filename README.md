@@ -49,3 +49,6 @@
 ### 🌍 Languages
 - 🇮🇷 Persian (Native)
 - 🇺🇸 English (Professional Working Proficiency)
+
+### 📜 Certifications & Training
+- [Programming with Python]([CERTIFICATE_URL](https://yazdanjafari.github.io/img/Python.jpeg)) — Tehran Institute of Technology
